@@ -12,7 +12,7 @@ INSERT INTO `cloud_config` (`key`, `value`) VALUES
 ('bt_key', ''),
 ('whitelist', '0'),
 ('download_page', '1'),
-('new_version', '8.0.1'),
+('new_version', '8.0.2'),
 ('update_msg', '暂无更新日志'),
 ('update_date', '2023-07-20'),
 ('new_version_win', '7.9.0'),
